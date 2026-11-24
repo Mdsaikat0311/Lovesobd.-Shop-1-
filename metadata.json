@@ -1,0 +1,6 @@
+{
+  "name": "AuraGift — Butterfly Luxury Jewellery Combo",
+  "description": "Simple, conversion-ready gift landing page for the Butterfly Luxury Jewellery Combo with direct WooCommerce order sync and Meta Pixel tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
